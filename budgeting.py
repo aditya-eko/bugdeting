@@ -35,6 +35,9 @@ def labarugi(keuntungan):
 
 
 
+
+
+
 pembelian(10000)
 penjualan(15000)
 untung=keuntungan_peritem(15000,10000)
